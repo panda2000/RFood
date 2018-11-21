@@ -4,9 +4,6 @@ import android.content.Context;
 import android.database.Cursor;
 import android.support.v4.content.CursorLoader;
 
-/**
- * Created by max on 07.11.18.
- */
 
 public class MealtimeFoodCursorLoader extends CursorLoader {
 
