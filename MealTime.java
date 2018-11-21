@@ -155,6 +155,11 @@ public class MealTime extends AppCompatActivity implements LoaderCallbacks <Curs
             showDialog(DIALOG_TIME);
         }
 
+    public void onClickDate(View view) {
+        showDialog(DIALOG_TIME);
+    }
+
+
 
 
     protected Dialog onCreateDialog(int id) {
